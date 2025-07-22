@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entorno y variables sensibles
+.env
+
+# Archivos de salida / datos generados
+data/*.json
+*.log
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Historial de consola o REPL
+*.history
+
+# Mac/Linux swap files
+*.swp
+*.swo
+
+# Archivos de pruebas temporales
+coverage/
