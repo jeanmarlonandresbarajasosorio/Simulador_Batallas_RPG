@@ -1,0 +1,302 @@
+[
+  {
+    "nombre": "Arkyn",
+    "nivel": 2,
+    "vidaMax": 120,
+    "vida": 120,
+    "ataque": 14,
+    "habilidades": [
+      {
+        "nombre": "Golpe de Ira"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Poción de fuerza",
+          "tipo": "ofensivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Lyra",
+    "nivel": 1,
+    "vidaMax": 100,
+    "vida": 100,
+    "ataque": 12,
+    "habilidades": [
+      {
+        "nombre": "Curación leve"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Hierba sanadora",
+          "tipo": "curativo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Thorin",
+    "nivel": 3,
+    "vidaMax": 150,
+    "vida": 150,
+    "ataque": 18,
+    "habilidades": [
+      {
+        "nombre": "Martillazo"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Escudo de roble",
+          "tipo": "protección"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Elira",
+    "nivel": 2,
+    "vidaMax": 110,
+    "vida": 110,
+    "ataque": 15,
+    "habilidades": [
+      {
+        "nombre": "Flecha veloz"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Carcaj encantado",
+          "tipo": "ofensivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Drogar",
+    "nivel": 4,
+    "vidaMax": 160,
+    "vida": 160,
+    "ataque": 20,
+    "habilidades": [
+      {
+        "nombre": "Grito de guerra"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Tótem de piedra",
+          "tipo": "defensivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Nimue",
+    "nivel": 3,
+    "vidaMax": 130,
+    "vida": 130,
+    "ataque": 11,
+    "habilidades": [
+      {
+        "nombre": "Hechizo de escarcha"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Amuleto mágico",
+          "tipo": "curativo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Fenrik",
+    "nivel": 2,
+    "vidaMax": 115,
+    "vida": 115,
+    "ataque": 16,
+    "habilidades": [
+      {
+        "nombre": "Corte sangriento"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Daga afilada",
+          "tipo": "ofensivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Zaira",
+    "nivel": 1,
+    "vidaMax": 95,
+    "vida": 95,
+    "ataque": 9,
+    "habilidades": [
+      {
+        "nombre": "Explosión mágica"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Polvo de maná",
+          "tipo": "mágico"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Kargan",
+    "nivel": 4,
+    "vidaMax": 170,
+    "vida": 170,
+    "ataque": 21,
+    "habilidades": [
+      {
+        "nombre": "Embate brutal"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Casco blindado",
+          "tipo": "protección"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Velys",
+    "nivel": 3,
+    "vidaMax": 125,
+    "vida": 125,
+    "ataque": 13,
+    "habilidades": [
+      {
+        "nombre": "Luz purificadora"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Cristal solar",
+          "tipo": "curativo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Orlok",
+    "nivel": 2,
+    "vidaMax": 105,
+    "vida": 105,
+    "ataque": 10,
+    "habilidades": [
+      {
+        "nombre": "Golpe sombrío"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Capa negra",
+          "tipo": "defensivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Seraph",
+    "nivel": 5,
+    "vidaMax": 180,
+    "vida": 180,
+    "ataque": 25,
+    "habilidades": [
+      {
+        "nombre": "Juicio divino"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Lanza sagrada",
+          "tipo": "ofensivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Kael",
+    "nivel": 1,
+    "vidaMax": 100,
+    "vida": 100,
+    "ataque": 11,
+    "habilidades": [
+      {
+        "nombre": "Cuchillada rápida"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Bomba de humo",
+          "tipo": "evasivo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Mira",
+    "nivel": 2,
+    "vidaMax": 115,
+    "vida": 115,
+    "ataque": 12,
+    "habilidades": [
+      {
+        "nombre": "Curación mayor"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Runa de sanación",
+          "tipo": "curativo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Zorak",
+    "nivel": 3,
+    "vidaMax": 140,
+    "vida": 140,
+    "ataque": 17,
+    "habilidades": [
+      {
+        "nombre": "Tormenta oscura"
+      }
+    ],
+    "inventario": {
+      "objetos": [
+        {
+          "nombre": "Orbe tenebroso",
+          "tipo": "mágico"
+        }
+      ]
+    }
+  }
+]

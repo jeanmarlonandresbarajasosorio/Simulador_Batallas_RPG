@@ -1,13 +1,26 @@
 {
+  "name": "simulador_batallas_rpg",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nicoleordonezc/Simulador_Batallas_RPG#readme",
+  "bugs": {
+    "url": "https://github.com/nicoleordonezc/Simulador_Batallas_RPG/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoleordonezc/Simulador_Batallas_RPG.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "dependencies": {
-    "boxen": "^8.0.1",
     "chalk": "^5.4.1",
-    "figlet": "^1.8.2",
-    "fs-extra": "^11.3.0",
-    "inquirer": "^12.8.2"
+    "inquirer": "^8.2.4",
+    "lowdb": "^7.0.1",
+    "uuid": "^11.1.0"
   }
-  
 }
