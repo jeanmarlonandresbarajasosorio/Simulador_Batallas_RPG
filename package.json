@@ -2,13 +2,13 @@
   "name": "simulador_batallas_rpg",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/nicoleordonezc/Simulador_Batallas_RPG#readme",
+  "homepage": "https://github.com/jeanmarlonandresbarajasosorio/Simulador_Batallas_RPG#readme",
   "bugs": {
-    "url": "https://github.com/nicoleordonezc/Simulador_Batallas_RPG/issues"
+    "url": "https://github.com/jeanmarlonandresbarajasosorio/Simulador_Batallas_RPG"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicoleordonezc/Simulador_Batallas_RPG.git"
+    "url": "https://github.com/jeanmarlonandresbarajasosorio/Simulador_Batallas_RPG"
   },
   "license": "ISC",
   "author": "",
