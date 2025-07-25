@@ -3,7 +3,7 @@
 ## 🎯 Objetivo
 ## integrantes 
 jean marlon barajas 
-juan divid bermeo
+juan david bermeo
 
 
 Desarrollar una **aplicación de consola interactiva** que permita crear personajes, simular batallas por turnos contra enemigos controlados por IA, gestionar habilidades y objetos, aplicar los principios de programación orientada a objetos y cumplir con los principios SOLID.
