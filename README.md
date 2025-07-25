@@ -1,6 +1,10 @@
 # 🛡️ Simulador de Batallas RPG por Consola - Node.js
 
 ## 🎯 Objetivo
+## integrantes 
+jean marlon barajas 
+juan divid bermeo
+
 
 Desarrollar una **aplicación de consola interactiva** que permita crear personajes, simular batallas por turnos contra enemigos controlados por IA, gestionar habilidades y objetos, aplicar los principios de programación orientada a objetos y cumplir con los principios SOLID.
 
@@ -80,9 +84,13 @@ Implementado con `inquirer`, permite:
 
 ---
 
-## 🎬 Video Explicativo
+## 🎬 Video Explicativo funciones
+## fuciones
+https://drive.google.com/file/d/1N6mXSts8L_o2tIlUQusB2LvLvqe62BqA/view?usp=sharing
 
-
+## 🎬 video Explicativo estructura
+## estructura
+https://drive.google.com/file/d/1oVgKmUmjUpSXv91ZN4klA3fKz_c4MsPN/view?usp=sharing
 
 ## 🚀 Cómo Ejecutar
 
